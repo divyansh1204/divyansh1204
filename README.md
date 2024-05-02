@@ -7,5 +7,4 @@ i am backend developer
 <!---
 divyansh1204/divyansh1204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-hlo I'm divyansh I'm software developer 
+---hey there I'm divyansh software developer  
